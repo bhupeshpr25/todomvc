@@ -69,3 +69,7 @@
 - Set up continuous integration (CI) to run tests automatically on every code push.
 - Aim for high test coverage to ensure most parts of the application are tested.
 - Regularly review and update tests as new features are added or existing ones are modified.
+
+### Deployment
+
+live link - https://todomvc-tests.vercel.app/
